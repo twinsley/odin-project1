@@ -1,8 +1,8 @@
 #section1 {
   background-color: #1f2937;
-  border-width: 5px;
+  /* border-width: 5px;
   border-color: blue;
-  border-style: solid;
+  border-style: solid; */
   padding-left: 150px;
   padding-right: 150px;
 }
@@ -66,4 +66,10 @@ a:hover {
 
 a:active {
   text-decoration: none;
+}
+button {
+  background-color: #3882f6;
+  color: white;
+  border-radius: 5px;
+  border: none;
 }
