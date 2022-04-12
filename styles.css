@@ -177,3 +177,9 @@ button {
   justify-content: center;
   color: #e5e7eb;
 }
+footer {
+  background-color: #1f2937;
+  color: #e5e7eb;
+  text-align: center;
+  padding: 10px;
+}
